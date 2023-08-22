@@ -1,3 +1,3 @@
-# NOOM
+# Peer-to-Peer VideoChat
 
-Zoom Clone using Node.JS webRTC and Websockets.
+Zoom Clone using Node.JS , Boostrap, RTCPeerConnection
